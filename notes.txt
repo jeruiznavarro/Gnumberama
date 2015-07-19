@@ -1,0 +1,1 @@
+be careful with the zero search in check_cells, the loop will probably cause segmentation faults
